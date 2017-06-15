@@ -41,6 +41,7 @@ Aula #3
 Aula #4
 - expressjs
 - API REST
+- Desafio semana #2
 
 Aula #5
 - o que é front
@@ -52,14 +53,16 @@ Aula #5
 Aula #6
 - Vue.js
 - JavaScript no browser
+- Desafio semana #3
 
 Aula #7
 - Browserify
 
 Aula #8
 - Padrões/Arquitetura
+- Desafio semana #4
 
 Aula #9
 
 Aula #10
-- Entregar uma aplicação fullstack
+- Desafio semana #5: Entregar uma aplicação fullstack
