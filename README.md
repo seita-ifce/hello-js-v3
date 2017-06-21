@@ -32,16 +32,15 @@
 
 - Aula 3
   - SQL - 30m
-  - postgres/pgadmin III 20m
   - sqlite/dbbrowser 20m
   - knex - 20m
+  - knex migrations - 20m
 
 - Aula 4
-  - knex migrations - 20m
-  - combinando knex, knex migrations e express - 20m
+  - combinando knex, knex migrations e express - 30m
   - pasta static do express - 10m
   - HTML - 10m
-  - JavaScript client-side - 30m 
+  - JavaScript client-side - 40m
 
 - Aula 5
   - CSS - 20m
