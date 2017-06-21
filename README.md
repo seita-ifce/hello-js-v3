@@ -86,6 +86,10 @@
 - de 2017-07-10 a 2017-07-19
 - de 2017-07-24 a 2017-08-02
 
+## Horário
+
+- das 18:30 às 20:00
+
 ## Segunda edição
 
 - temos aproximadamente 40 inscritos e para evitarmos injustiças planejamos duas edições.
