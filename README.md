@@ -81,14 +81,32 @@
 ## Propostas de calendário
 
 - conforme o [calendário acadêmico](http://ifce.edu.br/fortaleza/calendario):
-- de 2017-07-03 a 2017-07-12
-- de 2017-07-10 a 2017-07-19
+- ~~de 2017-07-03 a 2017-07-12~~
+- ~~de 2017-07-10 a 2017-07-19~~
 - de 2017-07-24 a 2017-08-02
 
 ## Horário
 
 - das 18:30 às 20:00
 
+## Responsáveis pela realização do minicurso
+
+- Prof. Antônio Serra - IFCE (professor apoiando o projeto) - prof.serra@gmail.com
+- Al. Leonardo Silveira - IFCE (facilitador das aulas) - sombriks@gmail.com
+- B.el Yuri Soares - Formado pelo IFCE (facilitador das aulas) - yuri@matsya.io
+
 ## Segunda edição
 
-- temos aproximadamente 40 inscritos e para evitarmos injustiças planejamos duas edições.
+- temos aproximadamente 40 inscritos e para evitarmos injustiças planejamos duas edições
+- a segunda edição trataremos num momento posterior
+
+## Motivação
+
+- os alunos da engenharia de computação podem se beneficiar deste conhecimento extra
+- as tecnologias a serem apresentadas sáo escolhidas direto do mercado atual
+- a demanda por profisionais aptos a desenvolver e entregar sistemas web s cresce
+
+## Resultados esperados
+
+- mais um grupo de alunos que estarão aptos a entregar soluões de software dentro de um tempo aceitável
+- repetir ou superar os resultados da versão 2 do minicurso, com 2 alunos encaminhados para o mercado de trabalho, uma visita de um headhunter em sala no último dia e tantos outros tocando projetos no github, fazendo portfólio, após o minicurso.
