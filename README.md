@@ -51,8 +51,8 @@
 - Aula 6
   - budo - 30m
   - vue-material - 30m
-  - google material icons - 10
-  - font-awesome-icons - 20
+  - google material icons - 10m
+  - font-awesome-icons - 20m
  
 - Aula 7
   - conceitos do desenvolvimento fullstack - 20m
@@ -65,16 +65,16 @@
 
 ## Estrutura necessária
 
-- laboratrio com no mínimo 10 computadores funcionando e com acesso à internet. 
-  - pretende-se ter até 2 participantes por pc
+- laboratório com, no mínimo, 10 computadores funcionando e com acesso à internet. 
+  - pode-se ter até 2 participantes por pc
 - acesso liberado para os instrutores e os participantes durante a duração o minicurso
 - os seguintes softwares instalados e configurados (para computadores windows)
   - node.js 6 ou superior
-  - npm 4 ou superior (vem com o instalador do node)
+  - npm 3 ou superior (vem com o instalador do node)
   - knex instalado a nível de sistema (npm -g install knex)
   - code (Visual Studio Code)
   - google chrome
-  - postgresql 9,5 ou superior
+  - postgresql 9.5 ou superior
   - pgadmin 3 (o 4 não presta)
   - sqlite dbbrowser 
   
@@ -104,7 +104,7 @@
 
 - os alunos da engenharia de computação podem se beneficiar deste conhecimento extra
 - as tecnologias a serem apresentadas sáo escolhidas direto do mercado atual
-- a demanda por profisionais aptos a desenvolver e entregar sistemas web s cresce
+- a demanda por profisionais aptos a desenvolver e entregar sistemas web só cresce
 
 ## Resultados esperados
 
