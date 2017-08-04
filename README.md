@@ -83,7 +83,8 @@
 - conforme o [calendário acadêmico](http://ifce.edu.br/fortaleza/calendario):
 - ~~de 2017-07-03 a 2017-07-12~~
 - ~~de 2017-07-10 a 2017-07-19~~
-- de 2017-07-24 a 2017-08-02
+- ~~de 2017-07-24 a 2017-08-02~~
+- de 2017-08-28 a 2017-09-06
 
 ## Horário
 
