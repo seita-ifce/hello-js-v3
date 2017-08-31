@@ -96,9 +96,10 @@
 - ~~de 2017-07-24 a 2017-08-02~~
 - ~~de 2017-08-28 a 2017-09-06~~
 - Turma 1
-  - dias 05, 06, 12, 13, 19, 20, 26 e 27 de setembro de 2017
+  - dias 05, 12, 13, 19, 20, 26 e 27 de setembro de 2017
+  - dia 03 de outubro de 2017
 - Turma 2
-  - dias 03, 04, 10, 11, 17, 18, 24 e 25 de outubro de 2017
+  - dias 04, 10, 11, 17, 18, 24, 25 e 31 de outubro de 2017
 - Dias de terça-feira o laboratório será o LMC 3
 - Dias de quarta-feira o laboratório será o LMC 2
 
