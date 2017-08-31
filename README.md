@@ -72,6 +72,9 @@
   - node.js 6 ou superior
   - npm 3 ou superior (vem com o instalador do node)
   - knex instalado a nível de sistema (npm -g install knex)
+  - budo (npm -g install budo)
+  - browserify (npm -g install browserify)
+  - nodemon (npm -g install nodemon)
   - code (Visual Studio Code)
   - google chrome
   - postgresql 9.5 ou superior
