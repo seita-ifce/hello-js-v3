@@ -75,16 +75,29 @@
   - code (Visual Studio Code)
   - google chrome
   - postgresql 9.5 ou superior
+    - usuario administrativo 'postgres' com senha 'postgres'
   - pgadmin 3 (o 4 não presta)
   - sqlite dbbrowser 
   
-## Propostas de calendário
+## Participantes da edição 3.0.0
+
+- a lista de inscritos já foi circulada na thread de email que trata da organização destas oficinas
+- temos 40 inscritos, número recorde
+- eles serão divididos em grupos de 20, que é o número aceitável de pessoas dentro do laboratório
+
+## Proposta de datas e laboratórios
 
 - conforme o [calendário acadêmico](http://ifce.edu.br/fortaleza/calendario):
 - ~~de 2017-07-03 a 2017-07-12~~
 - ~~de 2017-07-10 a 2017-07-19~~
 - ~~de 2017-07-24 a 2017-08-02~~
-- de 2017-08-28 a 2017-09-06
+- ~~de 2017-08-28 a 2017-09-06~~
+- Turma 1
+  - dias 05, 06, 12, 13, 19, 20, 26 e 27 de setembro de 2017
+- Turma 2
+  - dias 03, 04, 10, 11, 17, 18, 24 e 25 de outubro de 2017
+- Dias de terça-feira o laboratório será o LMC 3
+- Dias de quarta-feira o laboratório será o LMC 2
 
 ## Horário
 
