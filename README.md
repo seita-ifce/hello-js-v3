@@ -116,7 +116,7 @@
 ## Segunda edição
 
 - temos aproximadamente 40 inscritos e para evitarmos injustiças planejamos duas edições
-- a segunda edição trataremos num momento posterior
+- ~~a segunda edição trataremos num momento posterior~~ a segunda edição é imediatamente após o fim da primeira
 
 ## Motivação
 
