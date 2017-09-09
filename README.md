@@ -26,9 +26,10 @@
   - editor de texto - 10m
 
 - Aula 2
-  - npm/package.json - 20m
+  - npm/package.json - 15m
   - JavaScript ES6 server-side - 40m
-  - Expressjs - 30m
+  - Expressjs - 25m
+  - Axios - 10min
 
 - Aula 3
   - SQL - 30m
