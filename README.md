@@ -17,7 +17,7 @@
 
 ## Ementa
 
-- Aula 1
+- [Aula 1](S03E01.md)
   - apresentações - 10m
   - git - 10m
   - GitHub - 20m
@@ -25,7 +25,7 @@
   - nodejs - 20m
   - editor de texto - 10m
 
-- Aula 2
+- [Aula 2](S03E02.md)
   - npm/package.json - 15m
   - JavaScript ES6 server-side - 40m
   - Expressjs - 25m
