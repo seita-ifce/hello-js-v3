@@ -31,9 +31,9 @@
   - Expressjs - 25m
   - Axios - 10min
 
-- Aula 3
-  - SQL - 30m
+- [Aula 3](S03E03.md)
   - sqlite/dbbrowser 20m
+  - SQL - 30m
   - knex - 20m
   - knex migrations - 20m
 
