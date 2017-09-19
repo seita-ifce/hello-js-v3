@@ -1,6 +1,6 @@
-**Esse é um documento vivo, portanto está em constante mutação.**
-
 # Hello.js
+
+**Esse é um documento vivo, portanto está em constante mutação.**
 
 - O Hello.js surgiu em ~2015-11-28, quando @sombriks e @yuriploc tiveram de realizar **dois** projetos para a disciplina de Projeto Social do IFCE.
 
@@ -37,7 +37,7 @@
   - knex - 20m
   - knex migrations - 20m
 
-- Aula 4
+- [Aula 4](S03E04.md)
   - combinando knex, knex migrations e express - 30m
   - pasta static do express - 10m
   - HTML - 10m
@@ -54,19 +54,19 @@
   - vue-material - 30m
   - google material icons - 10m
   - font-awesome-icons - 20m
- 
+
 - Aula 7
   - conceitos do desenvolvimento fullstack - 20m
   - padrões de projetos em javascript - 20m
   - levantamento de requisitos - 30m
   - ferramentas de acompanhamento de projeto - 30m
 
-- Aula 8 
+- Aula 8
   - projeto showcase de trabalho - 90m
 
 ## Estrutura necessária
 
-- laboratório com, no mínimo, 10 computadores funcionando e com acesso à internet. 
+- laboratório com, no mínimo, 10 computadores funcionando e com acesso à internet.
   - pode-se ter até 2 participantes por pc
 - acesso liberado para os instrutores e os participantes durante a duração o minicurso
 - os seguintes softwares instalados e configurados (para computadores windows)
@@ -81,8 +81,8 @@
   - postgresql 9.5 ou superior
     - usuario administrativo 'postgres' com senha 'postgres'
   - pgadmin 3 (o 4 não presta)
-  - sqlite dbbrowser 
-  
+  - sqlite dbbrowser
+
 ## Participantes da edição 3.0.0
 
 - a lista de inscritos já foi circulada na thread de email que trata da organização destas oficinas
