@@ -43,14 +43,15 @@
   - HTML - 10m
   - JavaScript client-side - 40m
 
-- Aula 5
-  - CSS - 20m
+- [Aula 5](S03E05.md)
+  - CSS - 30m
   - vuejs - 30m
-  - axios - 20m
-  - browserify - 20m
+  - axios - 30m
+  - ~~browserify - 20m~~
 
 - Aula 6
-  - budo - 30m
+  - browserify - 20m
+  - budo - 10m
   - vue-material - 30m
   - google material icons - 10m
   - font-awesome-icons - 20m
