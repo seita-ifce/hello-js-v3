@@ -50,14 +50,16 @@
   - ~~browserify - 20m~~
 
 - Aula 6
-  - browserify - 20m
+  - projeto fullstack com browserify - 20m
   - budo - 10m
   - vue-material - 30m
   - google material icons - 10m
-  - font-awesome-icons - 20m
+  - render function e single file components - 20m 
+  - ~~font-awesome-icons - 20m~~
 
 - Aula 7
-  - conceitos do desenvolvimento fullstack - 20m
+  - projeto client com SPA (single page applications) - 10m
+  - ~~conceitos do desenvolvimento fullstack - 20m~~
   - padrões de projetos em javascript - 20m
   - levantamento de requisitos - 30m
   - ferramentas de acompanhamento de projeto - 30m
