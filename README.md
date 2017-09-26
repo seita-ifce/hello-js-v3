@@ -49,7 +49,7 @@
   - axios - 30m
   - ~~browserify - 20m~~
 
-- Aula 6
+- [Aula 6](S03E06.md)
   - projeto fullstack com browserify - 20m
   - budo - 10m
   - vue-material - 30m
