@@ -64,7 +64,7 @@
   - levantamento de requisitos - 30m
   - ferramentas de acompanhamento de projeto - 30m
 
-- Aula 8
+- [Aula 8](S03E08.md)
   - boas práticas e padrões de projeto em javascript - 25m
   - projeto showcase de trabalho - 65m
 
